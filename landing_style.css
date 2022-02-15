@@ -1,0 +1,30 @@
+body {
+  background-color: #041C32;
+  color: #FDFFFC;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  border: 40px solid #519259;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p {
+  padding: 3%;
+  font-weight: bold;
+  text-align: justify;
+
+}
+
+form {
+  font-size: 1.1em;
+}
+
+#sub {
+  font-size: 1em;
+  padding: 20px;
+  margin: 10px;
+  background-color: #FF9F1C;
+  border-radius: 30px;
+  border-style: none;
+  font-weight: bolder;
+}

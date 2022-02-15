@@ -8,6 +8,13 @@ body {
   margin: 0px;
 }
 
+img {
+  margin-top: 10px;
+  padding: 5px;
+  width: 160px;
+  height: 160px;
+}
+
 p {
   padding: 3%;
   font-weight: bold;
